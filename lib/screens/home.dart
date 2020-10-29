@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:my_whatsapp_clone/screens/statusScreen.dart';
-
 import 'callScreen.dart';
 import 'cameraScreen.dart';
 import 'chatScreen.dart';
